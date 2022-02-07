@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="avg_temp">Avg temp</string>
+    <string name="go_back_button">go back button</string>
+</resources>
